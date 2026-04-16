@@ -1,16 +1,18 @@
-## Hi there 👋
+# アヌモン | Anumon
 
-<!--
-**Anumon-With-Data/Anumon-With-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 MBA Candidate & Data Analyst
+**English & Japanese (Bilingual)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+Professional associate at **TCS** (currently on educational sabbatical) and **MBA Candidate in Business Analytics**. I specialize in building "Poka-Yoke" (error-proof) automated data pipelines and translating complex datasets into actionable business strategies.
+
+* 🇯🇵 **Japanese Level:** NAT-TEST Q3 Cleared | Preparing for JLPT N2 (July 2026)
+* 🎓 **Focus:** Sentiment Analytics, Business Intelligence, & Process Optimization
+* 🛠️ **Tech Stack:** Python (Pandas, NumPy), SQL, Power BI, Excel, Tableau
+
+---
+
+### 📫 Let's Connect!
+* **Currently based in:** Pune, India
